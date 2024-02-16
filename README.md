@@ -17,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/prejin2310/Krypt---Web-3.0-Blockchain-Application.git
+   git clone https://github.com/Rambod-22/blockchain-app.git
    ```
 2. Install NPM packages
    ```sh
